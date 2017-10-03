@@ -1,5 +1,5 @@
 /**
- * TemplateProgram --- template program to print "Hello World".
+ * PassWord ---program to generate password.
  * @author    	Ratna Lama
  * @version   	1.0
  * @since     	09/14/2017
@@ -10,7 +10,10 @@ import java.util.Scanner;
 public class PassWord {
 	
    /**
-   * Prints out "Hello World" 
+   * Generates a password
+   * asks user for a name, and 6-digit Date
+   * then combines with positive random number (1-99)
+   * plus period to generate the password.
    * and the command line arguments.
    * @param arg A string array containing 
    * the command line arguments.
