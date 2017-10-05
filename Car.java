@@ -76,10 +76,7 @@ public class Car {
 	* public void setSpeed(int speed){
 	*	this.speed = speed;
 	*}
-	*/
-
-	
-  
+	*/  
 } // end classs Car
 
 
